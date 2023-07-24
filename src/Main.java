@@ -20,7 +20,7 @@ public class Main {
         player2.setArmor(armor2);
         player2.setWeapon(weapon2);
 
-
+        //tampilan view
         player1.display();
         player2.display();
         player1.attackLawan(player2);
