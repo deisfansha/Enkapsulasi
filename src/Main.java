@@ -12,6 +12,8 @@ public class Main {
         player1.setArmor(armor1);
         player1.setWeapon(weapon1);
 
+
+        //Objek Player 2
         Player player2 = new Player("Ucok");
         Armor armor2 = new Armor("Kaos PDIP", 2,40);
         Weapon weapon2 = new Weapon("Cangkul", 20) ;
